@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on https://iammil.es</title>
-    <link>https://iammiles.github.io/writing/</link>
+    <link>iammiles.github.io/writing/</link>
     <description>Recent content in Writings on https://iammil.es</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jan 2021 17:48:30 -0800</lastBuildDate><atom:link href="https://iammiles.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jan 2021 17:48:30 -0800</lastBuildDate><atom:link href="iammiles.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://iammiles.github.io/writing/hello-world/</link>
+      <link>iammiles.github.io/writing/hello-world/</link>
       <pubDate>Thu, 14 Jan 2021 17:48:30 -0800</pubDate>
       
-      <guid>https://iammiles.github.io/writing/hello-world/</guid>
+      <guid>iammiles.github.io/writing/hello-world/</guid>
       <description>Hello, I&amp;rsquo;m Miles.
 I&amp;rsquo;m a software developer based in Portland, Ore. This is my attempt getting better at writing.</description>
     </item>
